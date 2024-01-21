@@ -34,8 +34,7 @@
     <p>
       Also thanks to&nbsp;Blaine R Southam who has turned it into a
       <a
-        href="https://web.archive.org/web/20200418152513/http://misko.hevery.com/attachments/Guide-Writing Testable Code.pdf"
-        onclick="javascript:_gaq.push(['_trackEvent','download','https://web.archive.org/web/20200418152513/http://misko.hevery.com/attachments/Guide-WritingTestableCode.pdf']);">pdf book</a>.
+        href="./Guide-Writing Testable Code.pdf">pdf book</a>.
     </p>
     <p>
       <a
